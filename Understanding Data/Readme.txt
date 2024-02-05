@@ -22,7 +22,6 @@ IPL 2013, auction-related information, and more.
 
 - Use Case: This dataset can be used for various analyses related to player performance, team strategies, and auction dynamics during IPL 2013.
 
-- File: [Link to dataset file or source]
 
 ### 2. [hr_data]
 
@@ -33,4 +32,3 @@ The dataset encompasses data from 8,995 entries and 22 columns, offering insight
 - Use Case: The HR Recruitment Dataset can be utilized for analyzing trends in candidate recruitment, understanding factors influencing job 
 acceptance, and exploring correlations between various recruitment parameters.
 
-- File: [Link to dataset file or source]
